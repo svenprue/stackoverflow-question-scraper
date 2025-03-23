@@ -51,7 +51,7 @@ python scraper.py --input-dir ./custom_input --output-dir ./custom_output --batc
 # Output
 Results are saved as a parquet file in the output directory:
 ```
-Copyoutput_data/
+output_data/
 ├── bounty_timeline_results.parquet
 │   └── Schema: ['question_id': int, 'bounty_start': list, 'bounty_end': list]
 └── scraper_YYYYMMDD_HHMMSS.log
