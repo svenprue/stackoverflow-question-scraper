@@ -1,5 +1,5 @@
 # Stack Overflow Bounty Timeline Scraper
-This tool extracts bounty start/end timestamps from Stack Overflow questions by scraping their timeline pages. Stack Exchange data dumps don't include exact bounty timestamps, so this scraper accesses the timeline view to collect this data for research purposes.
+This script extracts bounty start/end timestamps from Stack Overflow questions by scraping their timeline pages. Stack Exchange data dumps don't include exact bounty timestamps, so this scraper accesses the timeline view to collect this data for research purposes.
 
 ## Setup
 ### Clone the repository
