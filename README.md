@@ -62,6 +62,7 @@ Note that bounty_start and bounty_end are stored as lists because Stack Overflow
 The scraper can be easily modified to extract other question-level timestamps available in the timeline view, such as:
 - When a question was marked as accepted
 - When a question was closed or reopened
+
 To this end, simply update the event filtering logic in the _scrape_timeline_events method.
 
 # Disclaimer
